@@ -1,3 +1,5 @@
+![Terminal-Chat](https://socialify.git.ci/FireStreaker2/Terminal-Chat/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+
 ## Prerequisites 
 * Python
 * PIP
@@ -21,20 +23,20 @@ Start talking!
 note: commands may vary if you're using the python terminal.
 
 ## FAQ
-Q: Why did you make this?
+Q: Why did you make this?  
 A: idk lmao
 
-Q: How long did this take you?
+Q: How long did this take you?  
 A: 5-10 minutes i think
 
-Q: You suck at coding
+Q: You suck at coding  
 A: i know
 
 ## Example
-<img src="./example.png"/>
+<img src="./example.PNG"/>
 
 ## Credits
-<a href="https://platform.openai.com/docs/quickstart/build-your-application">OpenAI Tutorial</a>
+<a href="https://platform.openai.com/docs/quickstart/build-your-application">OpenAI Tutorial</a>   
 <a href="https://platform.openai.com/docs/introduction/overview">GPT 3 API</a>
 
 ## License
