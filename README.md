@@ -11,12 +11,13 @@
 ``Copy your secret API key and set it as the OPENAI_API_KEY in your newly created .env file. If you haven't created a secret key yet, you can do so below.``
 
 ```
+$ pip install openai
 $ git clone https://github.com/FireStreaker2/Terminal-Chat.git
 ```
 Open up ``main.py`` and add your API key to line 7
 ```
 $ cd Terminal-Chat
-$ python main.py``
+$ python main.py
 ```
 Start talking!
 
